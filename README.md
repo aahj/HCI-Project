@@ -7,3 +7,8 @@ https://hcipro97.firebaseapp.com/
 ------------------Introduction to a website:----------------
 What is Future Tech?
 Technology can be most broadly defined as the entities, both material and immaterial, created by the application of mental and physical effort in order to achieve some value. In this usage, technology refers to tools and machines that may be used to solve real-world problems.The webpage (FUTURETECH) basically promotes the products that are available in our company and their related software�s, so that the customers can easily buy their desired products while sitting at home. With some terms and conditions which are applied on the respective products.
+----------------------------------------------------------------------
+If you want complete source code or have any query then contact me through
+Email: aamiralihussain53@gmail.com
+Facebook: www.facebook.com/aahj53
+
